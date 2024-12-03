@@ -9,6 +9,7 @@ Javascript allows a programmer to work with three primitive data types.
  
  A variable is a named storage for data.    We can use variables to store goodies,visitors and other data.
  the let keyword is used to create a variable in javascript.
+   
  
  EXAMPLE 
 
