@@ -8,6 +8,7 @@ let message = 'hello';
 message = 1234567; 
 alert(message); 
 
+
 // -----------Number-----------
   //represent both integer and floating point numbers
   //there are special numeric values which also belong to this data type.
