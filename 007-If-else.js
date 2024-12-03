@@ -5,7 +5,6 @@ if(expression){
   statement to be executed if expression is true 
 } 
 
-
 example 
 <!DOCTYPE html>
 <html>
