@@ -17,7 +17,6 @@ script tag takes two important attributes:
             Javascript code
             
           </script> 
-
 example. 
     
     <html>
