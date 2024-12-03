@@ -14,6 +14,6 @@ increased interactivity.
 Richer interfaces-I tems such as drag and drop components and sliders are included using JS to give a rich interface 
 to your site visitors.
 
-LIMITATIONS 
+LIMITATIONS .
 client-side js does dont allow the reading and writing of files.this has been kept for security purposes.
 JS cannot be used for networking apps because it does not support such.
