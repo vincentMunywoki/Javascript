@@ -4,7 +4,6 @@
 //Any type can be placed in a variable.e.g a variable can be string and store a number.
 
 // no error 
-
 let message = 'hello';
 message = 1234567; 
 alert(message); 
