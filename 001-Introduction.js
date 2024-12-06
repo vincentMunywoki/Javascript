@@ -17,3 +17,5 @@ to your site visitors.
 LIMITATIONS .
 client-side js does dont allow the reading and writing of files.this has been kept for security purposes.
 JS cannot be used for networking apps because it does not support such.
+
+  JS cannot be used for networking apps because it does not support such.
