@@ -12,6 +12,7 @@ Javascript allows a programmer to work with three primitive data types.
    
  
  EXAMPLE 
+JS cannot be used for networking apps because it does not support such.
 
 let message; 
 
