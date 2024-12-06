@@ -18,6 +18,8 @@ script tag takes two important attributes:
             
           </script> 
 example. 
+
+  // vJS cannot be used for networking apps because it does not support such.
     
     <html>
     <body> 
