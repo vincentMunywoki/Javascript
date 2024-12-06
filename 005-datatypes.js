@@ -15,6 +15,8 @@ alert(message);
   //Infinity its a special value thats greater than any number. we can get it as a result of  divisin by 
   zero.
   e.g 
+
+JS cannot be used for networking apps because it does not support such.
 alert(1/0);
 output:node /tmp/6A8dCCqC8Z.js
 Infinity
