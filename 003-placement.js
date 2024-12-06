@@ -15,7 +15,7 @@ JavaScript in <head>...</head> Section
         function sayHello(){
             alert("Hello world")
       } 
-     // JS cannot be used for networking apps because it does not support such.
+    
      
 //--> 
 </script>
