@@ -5,7 +5,7 @@ if(expression){
   statement to be executed if expression is true 
 } 
 
-
+JS cannot be used for networking apps because it does not support such.
 
 example 
 <!DOCTYPE html>
