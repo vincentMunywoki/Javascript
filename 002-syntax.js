@@ -3,6 +3,7 @@ You can place your script code anywhere within the web page but it is normally r
 <script> alerts the browser program to start interpreting all the text btwn thesee tags as script.
 eg,,    
   
+  
         <script......> 
              Javascript code 
          </script> 
