@@ -1,8 +1,7 @@
 //JS supports - Arithmetic,comparisonlogocal/relational,assignment and conditional operatoes.
 //code showing how to use arithmetic operators in js
 <html>
-  
-<body>
+  <body>
 <script type = "text/javascript">
 <!-- 
 var a = 33;
