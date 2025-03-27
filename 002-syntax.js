@@ -1,8 +1,8 @@
 Js can be implemented using JS statements that are placed within the <script>.....</script> HTML tags in a web page.
 You can place your script code anywhere within the web page but it is normally recommended that you should keep it within the <head> tags.
 <script> alerts the browser program to start interpreting all the text btwn thesee tags as script.
-eg,,    
-  
+   
+  eg,, 
   
         <script......> 
              Javascript code 
