@@ -14,7 +14,7 @@ JavaScript in <head>...</head> Section
        <!-- 
         function sayHello(){
             alert("Hello world")
-      } 
+         } 
     
      
 //--> 
