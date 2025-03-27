@@ -16,8 +16,7 @@ JavaScript in <head>...</head> Section
             alert("Hello world")
          } 
     
-     
-//--> 
+     //--> 
 </script>
 </head> 
 <body> 
